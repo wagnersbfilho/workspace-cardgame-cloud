@@ -27,7 +27,7 @@ Implementação do Projeto no estilo de card game, onde o jogador deve acertar a
 	- Carregar em memória (H2) dados oficiais de filmes  
 
 <b>End-ponits</b> 
-- Os end-points podem ser consumidos via Swagger ou Postman. O arquivo com as configurações pode ser importado e encontra-se em: resources/postman_collection.json
+- Os end-points podem ser consumidos via Swagger ou Postman. O arquivo com as configurações pode ser importado e encontra-se em: /postman_collection.json
 - Principais end-points:
   - Login (/cardgame/authentication/login): realiza autenticação com um dos usuarios configurados em memória. 
   - Logout (/cardgame/authentication/logout): realiza logou e encerra sessão do usuário. 
